@@ -1,3 +1,3 @@
 # Cplusplus
 
-Contains some C++ files pertaining to competitive coding problems.
+Contains some C++ files. These were created while using a online resource to learn C++
